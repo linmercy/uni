@@ -297,6 +297,7 @@ padding-top: 100px;
 
 .testi-col{
     flex-basis: 45%;
+    justify-content: space-between;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
